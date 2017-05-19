@@ -13,7 +13,7 @@ springcloud 学习笔记
 #### service-zuul: 路由网关
 Zuul的主要功能是路由和过滤器。路由功能是微服务的一部分，比如／api/user映射到user服务，/api/shop映射到shop服务。zuul实现了负载均衡。
 
-#####zuul有以下功能：
+##### zuul有以下功能：
 - Authentication
 - Insights
 - Stress Testing
@@ -24,3 +24,4 @@ Zuul的主要功能是路由和过滤器。路由功能是微服务的一部分�
 - Security
 - Static Response handling
 - Active/Active traffic management
+
