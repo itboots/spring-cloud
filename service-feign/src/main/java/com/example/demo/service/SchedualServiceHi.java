@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * Created by chenzhongqiang on 2017/4/6.
+ * Created by chenzhongqiang on 2017/5/19.
  */
 @FeignClient(value = "service-hi")
 public interface SchedualServiceHi {
