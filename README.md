@@ -25,3 +25,6 @@ Zuul的主要功能是路由和过滤器。路由功能是微服务的一部分�
 - Static Response handling
 - Active/Active traffic management
 
+#### config-server 远程服务配置
+
+#### config-client 配置客户端
